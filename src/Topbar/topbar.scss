@@ -1,0 +1,10 @@
+.topbar{
+  min-height: 80px;
+  justify-content: space-evenly;
+  display: flex;
+  flex-grow: 1;
+
+  .title{
+    flex-grow: 1;
+  }
+}
